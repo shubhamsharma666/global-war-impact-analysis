@@ -1,0 +1,150 @@
+Country,Year,GDP
+Aruba,1986,405586592.2
+Aruba,1987,487709497.2
+Aruba,1988,596648044.7
+Aruba,1989,695530726.3
+Aruba,1990,764804469.3
+Aruba,1991,872067039.1
+Aruba,1992,958659217.9
+Aruba,1993,1083240223
+Aruba,1994,1245810056
+Aruba,1995,1320670391
+Aruba,1996,1379888268
+Aruba,1997,1531843575
+Aruba,1998,1665363128
+Aruba,1999,1722905028
+Aruba,2000,1873452514
+Aruba,2001,1896456983
+Aruba,2002,1961843575
+Aruba,2003,2044111732
+Aruba,2004,2254830726
+Aruba,2005,2360017318
+Aruba,2006,2469782682
+Aruba,2007,2677641341
+Aruba,2008,2843024581
+Aruba,2009,2553793296
+Aruba,2010,2453597207
+Aruba,2011,2637859218
+Aruba,2012,2615208380
+Aruba,2013,2727849162
+Aruba,2014,2790849721
+Aruba,2015,2962906704
+Aruba,2016,2983637430
+Aruba,2017,3092427933
+Aruba,2018,3276187709
+Aruba,2019,3346623191
+Aruba,2020,2471419182
+Aruba,2021,2880902799
+Aruba,2022,3324034443
+Aruba,2023,3834729616
+Aruba,2024,4265650673
+Africa Eastern and Southern,1960,24205688712
+Africa Eastern and Southern,1961,24958886027
+Africa Eastern and Southern,1962,27073233857
+Africa Eastern and Southern,1963,31769135009
+Africa Eastern and Southern,1964,30279553207
+Africa Eastern and Southern,1965,33806176717
+Africa Eastern and Southern,1966,36927249593
+Africa Eastern and Southern,1967,38444163574
+Africa Eastern and Southern,1968,41742001495
+Africa Eastern and Southern,1969,47048523179
+Africa Eastern and Southern,1970,47593907820
+Africa Eastern and Southern,1971,52188685167
+Africa Eastern and Southern,1972,56726057494
+Africa Eastern and Southern,1973,73083598129
+Africa Eastern and Southern,1974,89535976340
+Africa Eastern and Southern,1975,95295754527
+Africa Eastern and Southern,1976,96006417140
+Africa Eastern and Southern,1977,1.09E+11
+Africa Eastern and Southern,1978,1.24E+11
+Africa Eastern and Southern,1979,1.42E+11
+Africa Eastern and Southern,1980,1.78E+11
+Africa Eastern and Southern,1981,1.85E+11
+Africa Eastern and Southern,1982,1.78E+11
+Africa Eastern and Southern,1983,1.86E+11
+Africa Eastern and Southern,1984,1.70E+11
+Africa Eastern and Southern,1985,1.49E+11
+Africa Eastern and Southern,1986,1.61E+11
+Africa Eastern and Southern,1987,1.90E+11
+Africa Eastern and Southern,1988,2.07E+11
+Africa Eastern and Southern,1989,2.21E+11
+Africa Eastern and Southern,1990,2.56E+11
+Africa Eastern and Southern,1991,2.77E+11
+Africa Eastern and Southern,1992,2.41E+11
+Africa Eastern and Southern,1993,2.40E+11
+Africa Eastern and Southern,1994,2.43E+11
+Africa Eastern and Southern,1995,2.73E+11
+Africa Eastern and Southern,1996,2.73E+11
+Africa Eastern and Southern,1997,2.88E+11
+Africa Eastern and Southern,1998,2.69E+11
+Africa Eastern and Southern,1999,2.65E+11
+Africa Eastern and Southern,2000,2.87E+11
+Africa Eastern and Southern,2001,2.61E+11
+Africa Eastern and Southern,2002,2.70E+11
+Africa Eastern and Southern,2003,3.58E+11
+Africa Eastern and Southern,2004,4.46E+11
+Africa Eastern and Southern,2005,5.22E+11
+Africa Eastern and Southern,2006,5.88E+11
+Africa Eastern and Southern,2007,6.75E+11
+Africa Eastern and Southern,2008,7.27E+11
+Africa Eastern and Southern,2009,7.27E+11
+Africa Eastern and Southern,2010,8.64E+11
+Africa Eastern and Southern,2011,9.60E+11
+Africa Eastern and Southern,2012,9.69E+11
+Africa Eastern and Southern,2013,9.81E+11
+Africa Eastern and Southern,2014,9.99E+11
+Africa Eastern and Southern,2015,9.10E+11
+Africa Eastern and Southern,2016,8.32E+11
+Africa Eastern and Southern,2017,9.78E+11
+Africa Eastern and Southern,2018,1.02E+12
+Africa Eastern and Southern,2019,1.02E+12
+Africa Eastern and Southern,2020,9.39E+11
+Africa Eastern and Southern,2021,1.11E+12
+Africa Eastern and Southern,2022,1.23E+12
+Africa Eastern and Southern,2023,1.18E+12
+Africa Eastern and Southern,2024,1.24E+12
+Afghanistan,2000,3521418060
+Afghanistan,2001,2813571754
+Afghanistan,2002,3825701439
+Afghanistan,2003,4520946819
+Afghanistan,2004,5224896719
+Afghanistan,2005,6203256539
+Afghanistan,2006,6971758282
+Afghanistan,2007,9747886187
+Afghanistan,2008,10109297048
+Afghanistan,2009,12416152732
+Afghanistan,2010,15856668556
+Afghanistan,2011,17805098206
+Afghanistan,2012,19907329778
+Afghanistan,2013,20146416758
+Afghanistan,2014,20497128556
+Afghanistan,2015,19134221645
+Afghanistan,2016,18116572395
+Afghanistan,2017,18753456498
+Afghanistan,2018,18053222687
+Afghanistan,2019,18799444490
+Afghanistan,2020,19955929052
+Afghanistan,2021,14259995441
+Afghanistan,2022,14497243872
+Afghanistan,2023,17152234637
+Africa Western and Central,1960,11904805742
+Africa Western and Central,1961,12707719291
+Africa Western and Central,1962,13630588814
+Africa Western and Central,1963,14468913698
+Africa Western and Central,1964,15803564796
+Africa Western and Central,1965,16920876930
+Africa Western and Central,1966,18033947667
+Africa Western and Central,1967,16493541544
+Africa Western and Central,1968,17022596884
+Africa Western and Central,1969,19301191937
+Africa Western and Central,1970,26696924214
+Africa Western and Central,1971,24496786002
+Africa Western and Central,1972,29489425516
+Africa Western and Central,1973,36890633234
+Africa Western and Central,1974,49687223643
+Africa Western and Central,1975,57280116276
+Africa Western and Central,1976,68385552348
+Africa Western and Central,1977,71789497552
+Africa Western and Central,1978,78778080490
+Africa Western and Central,1979,96681064864
+Africa Western and Central,1980,1.21E+11

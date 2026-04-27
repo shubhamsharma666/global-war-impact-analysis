@@ -1,0 +1,150 @@
+war_id,war_name,country,side,start_year,end_year,deaths,region,duration
+1,Franco-Spanish War,Spain,2,1823,1823,600,2,1
+1,Franco-Spanish War,France,1,1823,1823,400,2,1
+4,First Russo-Turkish,Ottoman Empire,2,1828,1829,80000,11,2
+4,First Russo-Turkish,Russia,1,1828,1829,50000,11,2
+7,Mexican-American,Mexico,2,1846,1847,6000,1,2
+7,Mexican-American,United States of America,1,1846,1847,13283,1,2
+10,Austro-Sardinian,Tuscany,2,1848,1848,100,2,1
+10,Austro-Sardinian,Italy,2,1848,1848,3400,2,1
+10,Austro-Sardinian,Austria,1,1848,1848,3927,2,1
+10,Austro-Sardinian,Modena,2,1848,1848,100,2,1
+13,First Schleswig-Holstein,Prussia,1,1848,1848,2500,2,1
+13,First Schleswig-Holstein,Denmark,2,1848,1848,3500,2,1
+16,Roman Republic,France,1,1849,1849,1000,2,1
+16,Roman Republic,Two Sicilies,1,1849,1849,100,2,1
+16,Roman Republic,Austria,1,1849,1849,100,2,1
+16,Roman Republic,Papal States,2,1849,1849,1400,2,1
+19,La Plata,Argentina,2,1851,1852,800,1,2
+19,La Plata,Brazil,1,1851,1852,500,1,2
+22,Crimean,Turkey,1,1853,1856,45000,2,4
+22,Crimean,Italy,1,1855,1856,2200,2,2
+22,Crimean,France,1,1854,1856,95000,2,3
+22,Crimean,United Kingdom,1,1854,1856,22000,2,3
+22,Crimean,Russia,2,1853,1856,100000,2,4
+25,Anglo-Persian,United Kingdom,1,1856,1857,500,6,2
+25,Anglo-Persian,Iran,2,1856,1857,1500,6,2
+28,Italian Unification,Sardinia/Piedmont,1,1859,1859,2500,2,1
+28,Italian Unification,Austria,2,1859,1859,12500,2,1
+28,Italian Unification,France,1,1859,1859,7500,2,1
+31,First Spanish-Moroccan,Morocco,2,1859,1860,6000,6,2
+31,First Spanish-Moroccan,Spain,1,1859,1860,4000,6,2
+34,Italian-Roman,Sardinia/Piedmont,1,1860,1860,300,2,1
+34,Italian-Roman,Papal States,2,1860,1860,700,2,1
+37,Neapolitan,Two Sicilies,2,1860,1861,400,2,2
+37,Neapolitan,Sardinia/Piedmont,1,1860,1861,600,2,2
+40,Franco-Mexican,Mexico,1,1862,1867,12000,1,6
+40,Franco-Mexican,France,2,1862,1867,8000,1,6
+43,Ecuadorian-Colombian,Colombia,1,1863,1863,300,1,1
+43,Ecuadorian-Colombian,Ecuador,2,1863,1863,700,1,1
+46,Second Schleswig-Holstein,Germany,1,1864,1864,1048,2,1
+46,Second Schleswig-Holstein,Denmark,2,1864,1864,2933,2,1
+46,Second Schleswig-Holstein,Austria,1,1864,1864,500,2,1
+49,Lopez,Argentina,1,1865,1870,10000,1,6
+49,Lopez,Paraguay,2,1864,1870,200000,1,7
+49,Lopez,Brazil,1,1864,1870,100000,1,7
+52,Naval War,Chile,1,1865,1866,100,1,2
+52,Naval War,Peru,1,1866,1866,600,1,1
+52,Naval War,Spain,2,1865,1866,300,1,2
+55,Seven Weeks,Italy,1,1866,1866,4000,2,1
+55,Seven Weeks,Hesse Grand Ducal,2,1866,1866,100,2,1
+55,Seven Weeks,Wuerttemburg,2,1866,1866,100,2,1
+55,Seven Weeks,Bavaria,2,1866,1866,500,2,1
+55,Seven Weeks,Austria,2,1866,1866,28000,2,1
+55,Seven Weeks,Germany,1,1866,1866,10000,2,1
+55,Seven Weeks,Mecklenburg Schwerin,1,1866,1866,100,2,1
+55,Seven Weeks,Hesse Electoral,2,1866,1866,100,2,1
+55,Seven Weeks,Saxony,2,1866,1866,600,2,1
+55,Seven Weeks,Baden,2,1866,1866,100,2,1
+55,Seven Weeks,Hanover,2,1866,1866,500,2,1
+58,Franco-Prussian,Wuerttemburg,1,1870,1870,976,2,1
+58,Franco-Prussian,Baden,1,1870,1870,956,2,1
+58,Franco-Prussian,Germany,1,1870,1871,44781,2,2
+58,Franco-Prussian,Bavaria,1,1870,1870,5600,2,1
+58,Franco-Prussian,France,2,1870,1871,152000,2,2
+60,First Central American,Guatemala,1,1876,1876,2000,1,1
+60,First Central American,El Salvador,2,1876,1876,2000,1,1
+61,Second Russo-Turkish,Turkey,2,1877,1878,165000,11,2
+61,Second Russo-Turkish,Russia,1,1877,1878,120000,11,2
+64,War of the Pacific,Chile,1,1879,1883,3276,1,5
+64,War of the Pacific,Peru,2,1879,1883,9672,1,5
+64,War of the Pacific,Bolivia,2,1879,1883,920,1,5
+65,Conquest of Egypt,Egypt,2,1882,1882,10000,6,1
+65,Conquest of Egypt,United Kingdom,1,1882,1882,79,6,1
+67,Sino-French,France,1,1884,1885,2100,7,2
+67,Sino-French,China,2,1884,1885,10000,7,2
+70,Second Central American,El Salvador,1,1885,1885,200,1,1
+70,Second Central American,Guatemala,2,1885,1885,800,1,1
+73,First Sino-Japanese,China,2,1894,1895,10000,7,2
+73,First Sino-Japanese,Japan,1,1894,1895,5000,7,2
+76,Greco-Turkish,Greece,2,1897,1897,600,2,1
+76,Greco-Turkish,Turkey,1,1897,1897,1400,2,1
+79,Spanish-American,Spain,2,1898,1898,775,13,1
+79,Spanish-American,United States of America,1,1898,1898,2910,13,1
+82,Boxer Rebellion,Russia,1,1900,1900,302,7,1
+82,Boxer Rebellion,Japan,1,1900,1900,622,7,1
+82,Boxer Rebellion,United States of America,1,1900,1900,21,7,1
+82,Boxer Rebellion,China,2,1900,1900,2000,7,1
+82,Boxer Rebellion,United Kingdom,1,1900,1900,34,7,1
+82,Boxer Rebellion,France,1,1900,1900,24,7,1
+83,Sino-Russian,Russia,1,1900,1900,242,7,1
+83,Sino-Russian,China,2,1900,1900,3758,7,1
+85,Russo-Japanese,Japan,1,1904,1905,80378,7,2
+85,Russo-Japanese,Russia,2,1904,1905,71453,7,2
+88,Third Central American,Honduras,2,1906,1906,300,1,1
+88,Third Central American,El Salvador,2,1906,1906,300,1,1
+88,Third Central American,Guatemala,1,1906,1906,400,1,1
+91,Fourth Central American,Nicaragua,1,1907,1907,400,1,1
+91,Fourth Central American,El Salvador,2,1907,1907,300,1,1
+91,Fourth Central American,Honduras,2,1907,1907,300,1,1
+94,Second Spanish-Moroccan,Spain,1,1909,1910,2000,6,2
+94,Second Spanish-Moroccan,Morocco,2,1909,1910,8000,6,2
+97,Italian-Turkish,Italy,1,1911,1912,6000,6,2
+97,Italian-Turkish,Turkey,2,1911,1912,14000,6,2
+100,First Balkan,Turkey,2,1912,1913,30000,11,2
+100,First Balkan,Greece,1,1912,1913,5000,11,2
+100,First Balkan,Bulgaria,1,1912,1912,32000,2,1
+100,First Balkan,Yugoslavia,1,1912,1912,15000,11,1
+103,Second Balkan,Turkey,1,1913,1913,20000,2,1
+103,Second Balkan,Yugoslavia,1,1913,1913,18500,2,1
+103,Second Balkan,Greece,1,1913,1913,2500,2,1
+103,Second Balkan,Bulgaria,2,1913,1913,18000,2,1
+103,Second Balkan,Romania,1,1913,1913,1500,2,1
+106,World War I,Yugoslavia,1,1914,1918,70000,2,5
+106,World War I,Russia,1,1914,1917,1700000,11,4
+106,World War I,Bulgaria,2,1915,1918,87500,2,4
+106,World War I,United Kingdom,1,1914,1918,908371,15,5
+106,World War I,Japan,1,1914,1918,300,7,5
+106,World War I,Portugal,1,1916,1918,7222,2,3
+106,World War I,Turkey,2,1914,1918,325000,6,5
+106,World War I,Belgium,1,1914,1918,13716,2,5
+106,World War I,Germany,2,1914,1918,1773700,15,5
+106,World War I,Greece,1,1917,1918,5000,2,2
+106,World War I,Romania,1,1916,1917,335706,2,2
+106,World War I,Austria-Hungary,2,1914,1918,1200000,2,5
+106,World War I,France,1,1914,1918,1385000,14,5
+106,World War I,Italy,1,1915,1918,650000,2,4
+106,World War I,United States of America,1,1917,1918,116516,2,2
+107,Estonian Liberation,Estonia,1,1918,1920,3600,2,3
+107,Estonian Liberation,Finland,1,1918,1920,150,2,3
+107,Estonian Liberation,Russia,2,1918,1920,8000,2,3
+108,Latvian Liberation,Germany,1,1918,1919,450,2,2
+108,Latvian Liberation,Russia,2,1918,1920,8000,2,3
+108,Latvian Liberation,Germany,2,1919,1919,750,2,1
+108,Latvian Liberation,Estonia,1,1919,1920,1000,2,2
+108,Latvian Liberation,Latvia,1,1918,1920,3046,2,3
+109,Russo-Polish,Russia,2,1919,1920,60000,2,2
+109,Russo-Polish,Poland,1,1919,1920,40000,2,2
+112,Hungarian Adversaries,Hungary,2,1919,1919,6000,2,1
+112,Hungarian Adversaries,Czechoslovakia,1,1919,1919,2000,2,1
+112,Hungarian Adversaries,Romania,1,1919,1919,3000,2,1
+115,Second Greco-Turkish,Turkey,1,1919,1922,20000,11,4
+115,Second Greco-Turkish,Greece,2,1919,1922,30000,11,4
+116,Franco-Turkish,Turkey,2,1919,1921,35000,6,3
+116,Franco-Turkish,France,1,1919,1921,5000,6,3
+117,Lithuanian-Polish,Lithuania,2,1920,1920,500,2,1
+117,Lithuanian-Polish,Poland,1,1920,1920,500,2,1
+118,Manchurian,USSR,1,1929,1929,200,7,1
+118,Manchurian,China,2,1929,1929,3000,7,1
+121,Second Sino-Japanese,Japan,1,1931,1933,10000,7,3
+121,Second Sino-Japanese,China,2,1931,1933,50000,7,3

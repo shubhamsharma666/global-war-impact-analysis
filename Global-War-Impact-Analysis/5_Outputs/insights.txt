@@ -1,0 +1,25 @@
+GLOBAL WAR IMPACT ANALYSIS - KEY INSIGHTS
+
+1. Total Wars Per Country
+The top 10 countries by war participation show that conflict involvement is concentrated among a small group of countries.
+
+2. Total Deaths Per Country
+The highest total death counts are not always found in the countries with the most wars, showing that frequency and impact are different.
+
+3. Average Deaths Per War
+Some countries have fewer wars but much higher average deaths per conflict, indicating greater war intensity.
+
+4. Total Wars By Region
+War frequency is regionally concentrated, with a few regions accounting for most recorded conflicts.
+
+5. Total Deaths By Region
+The regions with the highest casualties highlight where war impact has been most severe in human terms.
+
+6. GDP Vs War Frequency
+Economic strength does not remove war involvement, but it helps reveal how war patterns differ across countries.
+
+7. Deaths Per Million
+Population-normalized results show which countries suffered the greatest relative damage, not just the largest raw death counts.
+
+8. Global War Impact Summary
+The combined analysis of war frequency, deaths, GDP, and population shows that smaller and economically weaker countries often face disproportionately higher impact.
