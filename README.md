@@ -1,8 +1,6 @@
 # global-war-impact-analysis
 SQL project analyzing global war impact by combining GDP and population data. Focused on cleaning messy data, fixing country mismatches, aligning data by year, and validating queries using an MCP-based tool.
 
-# Global War Impact Analysis (SQL Project)
-
 ## Project Overview
 This project focuses on identifying not just where wars occur, but **which countries suffer the most and why**.
 
